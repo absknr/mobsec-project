@@ -1,0 +1,1 @@
+Directory to store disassembled apps. Each app is stored in its own directory.
